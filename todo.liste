@@ -1,0 +1,17 @@
+
+.Creation fonction bdconnect : fait
+.Page index.php : fait
+   .appele fonction our ce connecter a la base :fait
+   .requete pour selectionner dans la base de donnees
+   .tableaux fait 
+.creation page2.php :faits
+   . .appele fonction our ce connecter a la base :fait
+     .requete pour selectionner propriete 
+     .avec css
+     .appele fdde la requete dans la page html
+
+.creation page agent.php : fait
+   .. .appele fonction our ce connecter a la base :fait
+   .requete pour selectionner les agents :fait
+   .avec css
+   .appele de la requete dans la page html
